@@ -1,1 +1,2 @@
-Added line 1
+Its line 2 
+We need more lines. So we added 2 lines and removed line 1
